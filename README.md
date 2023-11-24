@@ -1,4 +1,4 @@
-### Help deepen your knowledge of the fretboard! ###
+*** Help deepen your knowledge of the fretboard! ***
 
 
 Tell the game which strings you are working on. The game will pick a random note on one
